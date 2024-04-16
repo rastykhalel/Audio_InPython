@@ -11,5 +11,4 @@
 جیاوازی نێوان نۆیز و دەنگە ئەسڵیەکە
 ![Alt Text](https://github.com/rastykhalel/Audio_InPython/blob/main/Figure%202024-04-16%20171517.png)
 
- دەنگەکە خۆی 
-[Listen to the audio](https://github.com/rastykhalel/Audio_InPython/blob/main/sample-file-4.wav)
+ 
