@@ -9,4 +9,4 @@
 
 
 جیاوازی نێوان نۆیس و دەنگە ئەسڵیەکە
-![Alt Text](image_url)
+![Alt Text](https://github.com/rastykhalel/Audio_InPython/blob/main/Figure%202024-04-16%20171517.png)
